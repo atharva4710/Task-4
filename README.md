@@ -1,4 +1,3 @@
-# Task-4
 🧠 Task 4: Classification with Logistic Regression
 ✅ Objective
 To build a binary classifier using Logistic Regression on a real-world dataset to predict whether a tumor is malignant (M) or benign (B).
@@ -52,10 +51,3 @@ Visualized the sigmoid function used in logistic regression
 ROC-AUC Score: Measures the classifier's ability to distinguish classes.
 
 Confusion Matrix: Displays true vs predicted values.
-
-Sigmoid Function Plot: Shows how raw outputs are converted to probabilities.
-
-📁 Files Included
-Logistic_Regression_Classification.ipynb: Complete notebook
-
-data.csv: Breast cancer dataset (input file)
